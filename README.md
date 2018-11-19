@@ -20,7 +20,7 @@ Devanagari Handwritten Image Classification
 
 <h3>Processing</h3>
 
-<p ALIGN=JUSTIFY>The image data was processed using CNN. The Neural Network contains 12 convolutional layer, 4 max pooling layer and batch normalization was also used for refining the process. The total number of parameters used was 536,694, Epochs used was 30.</p>
+<p ALIGN=JUSTIFY>The image data was processed using CNN. The Neural Network contains 12 convolutional layer, 4 max pooling layer and batch normalization was also used for refining the process. The total number of parameters used was 536,694, epochs used was 30, optimizer used was 'adam' and the loss used was 'categorical_crossentropy'.</p>
 
 ==================================================================================
 
